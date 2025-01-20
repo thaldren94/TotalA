@@ -1,0 +1,3 @@
+https://nasm.us/
+https://www.nasm.us/pub/nasm/releasebuilds/2.16.03/
+https://github.com/netwide-assembler/nasm/tree/nasm-2.16.xx

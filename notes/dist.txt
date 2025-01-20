@@ -1,0 +1,4 @@
+Distributions as diff(erence) files? for direct exe patching?
+We will provide a patcher tool to let the user apply it themselves in this case?
+DLL files have historically proven challenging for conflicting patches.
+

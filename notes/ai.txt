@@ -1,0 +1,11 @@
+Implement AI Scripting System.
+
+Challenge 9 TAG_Venom's as a single bot.
+
+(No cheating, unless enabled by the user)
+One or Two (Non-Cheating) or 9 (Cheating)
+
+Competency is the primary objective for the bot, before cheats come in.
+
+
+
