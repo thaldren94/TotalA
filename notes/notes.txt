@@ -1,0 +1,7 @@
+we chose to not use lua, or any other language due to the following reasons:
+ - bloat (library size compared to what is actually needed)
+ - security (needing to remove other modules to prevent general system access)
+ - modularity (ease of ability to adapt this implementation to other games)
+
+if not careful, one can mistakenly have left remains of language implementations which were not intended for this purpose
+plus bugs can be introduced where unintended behavior may arise without proper testing and knowledge of such language implementations

@@ -1,0 +1,1 @@
+assign mini-scripts to select units or unit types, or even structure types

@@ -1,0 +1,16 @@
+include-mapping units-table.txt
+
+
+
+if unit-count-of-type arm-t1-vehicle-plant < 1 then
+	create-unit arm-vehicle-plant
+end-if
+
+if unit-count-of-type arm-t1-vehicle-plant >= 1 then
+	if current-energy > 500 then
+		create-unit arm-t1-vehicle-construction
+	end-if
+end-if
+
+
+

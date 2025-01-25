@@ -1,0 +1,45 @@
+
+if
+then
+end-if
+while
+end-while
+force-exit-loop
+
+
+game-time
+create-unit
+unit-count-of-name
+assist-unit
+
+
+include-unit-mapping
+include-script
+
+
+
+
+
+if unit-count-of-type arm-t1-vehicle-plant < 1 then
+	create-unit arm-vehicle-plant
+end-if
+
+if unit-count-of-type arm-t1-vehicle-plant >= 1 then
+	if current-energy > 500 then
+		create-unit arm-t1-kbot-construction
+	end-if
+end-if
+
+
+
+
+
+
+
+
+# while current-metal < 250 then
+	#
+# end-while
+
+
+
