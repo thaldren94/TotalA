@@ -1,0 +1,32 @@
+micro
+making the meta units
+decision making capabilities
+personalities
+
+base script 70/30 offense/defense and balanced AI, yet overall 50/50 
+ then make personalities based off this base script
+
+
+base script
+  - expert level micro (line bombing with bombers)
+  - flash peewee weasel bomber
+    water map -> skeeter
+  - economy building
+  - aggressive scouting and radar building
+  - non-cheating los/etc
+  - have it check the built in (E/M) multiplier values (by difficulty) to prevent cheating
+  - not too aggressive with the commander, make it a builder
+  - if winning is improbable for the AI, attempt to draw (commander bombing)
+  - 
+
+
+unit memory ( for attacking )
+ - calculations as a base for script-sided actions
+
+
+
+    
+
+start with flat metal maps
+ 
+  
